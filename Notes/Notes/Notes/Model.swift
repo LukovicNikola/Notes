@@ -6,7 +6,10 @@
 //  Copyright © 2019 com.nikola. All rights reserved.
 //
 
-import Foundation
+import UIKit
 import CoreData
 
 var modelNote:[NSManagedObject] = []
+
+
+
